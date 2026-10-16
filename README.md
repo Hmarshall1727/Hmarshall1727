@@ -1,6 +1,6 @@
 # Hi, I am a Year 1 student in Information and Cybersecurity.
 
-I am building my skills in programming, problem solving and software development.
+I am new to programming, I want to build my skills in programming, problem solving and software development.
 
 ## Skills I am currently working on
 - Python basics - Loops, Lists, etc.
