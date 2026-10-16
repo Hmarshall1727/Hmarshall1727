@@ -9,8 +9,8 @@ I am building my skills in programming, problem solving and software development
 - Boolean Logic
 
 ## Projects I want to build
--A program in Python which involves dictionaries and lists.
--A program in Python which involves asking the user about game characters.
+- A program in Python which involves dictionaries and lists.
+- A program in Python which involves asking the user about game characters.
 
 ## What I want to develop on next
 - Debugging in Python
