@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I am a Year 1 student in Information and Cybersecurity.
 
-<!--
-**Hmarshall1727/Hmarshall1727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am building my skills in programming, problem solving and software development.
 
-Here are some ideas to get you started:
+## Skills I am currently working on
+- Python basics - Loops, Lists, etc.
+- Using GitHub to document learning
+- The types of errors in Python
+- Boolean Logic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects I want to build
+-A program in Python which involves dictionaries and lists.
+-A program in Python which involves asking the user about game characters.
+
+## What I want to develop on next
+- Debugging in Python
+- Learning more about the different functions in Python.
